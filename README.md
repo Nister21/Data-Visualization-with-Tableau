@@ -17,8 +17,7 @@ The dashboards highlight my ability to turn raw data into insightful, visually a
 
 ## 🛠️ Tools Used  
 - **Tableau**: Visualization and dashboard creation  
-- **Excel/CSV**: Data cleaning and preparation (if applicable)  
-- **SQL**: Data extraction and manipulation (if applicable)
+- **Excel/CSV**: Data cleaning and preparation
 
 ---
 
