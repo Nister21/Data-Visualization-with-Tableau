@@ -29,5 +29,15 @@ The dashboards highlight my ability to turn raw data into insightful, visually a
 
 ---
 
+## 🔗 How to View the Tableau Project  
+1. Access the Tableau project by visiting the following link:  
+   [View my Tableau Project](https://public.tableau.com/app/profile/nestor.rosales/viz/Sprint5_17242356287910/Dashboard)  
+
+2. Explore the interactive dashboards, visualizations, and key insights presented in the project.  
+
+3. Feel free to interact with the data, explore different filters, and dive deeper into the insights.  
+
+---
+
 ## 📌 Conclusion  
 This project demonstrates my ability to use Tableau to create interactive dashboards that not only present complex data but also provide act
