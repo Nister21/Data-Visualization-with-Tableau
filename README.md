@@ -40,4 +40,4 @@ The dashboards highlight my ability to turn raw data into insightful, visually a
 ---
 
 ## 📌 Conclusion  
-This project demonstrates my ability to use Tableau to create interactive dashboards that not only present complex data but also provide act
+This project demonstrates my ability to use Tableau to create interactive dashboards that not only present complex data but also provide actionable insights. It showcases how data visualization can enhance decision-making and storytelling by converting raw data into understandable, visually engaging narratives.
